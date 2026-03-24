@@ -1,6 +1,8 @@
 feedparser==6.0.11
 aiohttp==3.9.5
 deep-translator==1.11.4
-Pillow>=10.3.0
+Pillow>=10.2.0
 arabic-reshaper==3.0.0
 python-bidi==0.6.3
+motor==3.3.2
+g4f==0.3.1.2
